@@ -429,10 +429,10 @@ div#toptitle h1, #layout-content div#toptitle h1 {
 
 img {
 	padding: 0px;
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-left: 10px;
-	margin-top: 10px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-top: 5px;
 	border-radius: 10px;
 	vertical-align: middle;
 	text-align: center;
@@ -442,6 +442,7 @@ img {
 table {
 	border-collapse: collapse;
 	width: 100%;
+	table-layout:fixed;
 }
 
 
@@ -452,6 +453,7 @@ td {
 	text-align: center;
 	border: 1px solid #d1d5da;
 	line-height: 2;
+	max-width: 50%;
 }
 
 table + table {
