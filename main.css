@@ -429,10 +429,10 @@ div#toptitle h1, #layout-content div#toptitle h1 {
 
 img {
 	padding: 0px;
-	margin-right: 5px;
-	margin-bottom: 5px;
-	margin-left: 5px;
-	margin-top: 5px;
+	margin-right: 1%;
+	margin-bottom: 1%;
+	margin-left: 1%;
+	margin-top: 1%;
 	border-radius: 10px;
 	vertical-align: middle;
 	text-align: center;
